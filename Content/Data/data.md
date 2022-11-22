@@ -1,0 +1,3 @@
+Esta carpeta contiene X columnas de tipo Y blabla...
+
+[volver a index](../../index.md)
